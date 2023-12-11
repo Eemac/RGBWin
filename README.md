@@ -12,4 +12,4 @@ A fairly decent design, I think. I didn't know about ground pours at the time, s
 <img width="1202" alt="PCB" src="https://github.com/Eemac/RGBWin/assets/28767801/6b74a802-0593-4c2d-a868-0058d82da56c">
 
 ## Design Files, should anyone want them.
-Provided in the `design` folder.
+Provided in the `project` folder.
