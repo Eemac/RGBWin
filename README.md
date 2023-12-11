@@ -1,6 +1,5 @@
 # RGBWin!!
 A kW-scale RGBW LED controller for indoor effect lighting. I designed this board in my sophomore year of high school because no low-cost, highly-programmable RGBW solution existed at the time. The two TSSOP parts (PCA9685 16ch PWM controllers) were the first SMT parts I soldered. 
-
 <img width="574" alt="RGB_CTL" src="https://github.com/Eemac/RGBWin/assets/28767801/6c384f1c-3ea0-4cce-a8fe-c2e29c577260">
 
 ## Schematic
